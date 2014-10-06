@@ -1,0 +1,20 @@
+{
+    "fields": {
+        "subtitle": "", 
+        "description": "testing", 
+        "language": "swh_TZ", 
+        "title": "test article", 
+        "primary_category": null, 
+        "created_at": "2014-10-06T12:11:25.496370+00:00", 
+        "featured_in_category": false, 
+        "modified_at": "2014-10-06T12:11:25.496557+00:00", 
+        "linked_pages": [], 
+        "slug": "test-article", 
+        "content": "Server Error (500)", 
+        "source": null, 
+        "featured": false, 
+        "published": true, 
+        "id": "e036abafa8264e859b07227af62f331a"
+    }, 
+    "model": "GitPageModel"
+}
