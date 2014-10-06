@@ -1,0 +1,20 @@
+{
+    "fields": {
+        "subtitle": "", 
+        "description": "THis is the description", 
+        "language": "eng_UK", 
+        "title": "test article", 
+        "primary_category": "47b1706eb65c4f16bad59fb6fde0b01c", 
+        "created_at": "2014-10-06T11:48:59.548506+00:00", 
+        "featured_in_category": false, 
+        "modified_at": "2014-10-06T11:48:59.548660+00:00", 
+        "linked_pages": [], 
+        "slug": "test-article", 
+        "content": "Some thing big!\r\n\r\nWhere?\r\n-----------\r\nOh weel", 
+        "source": null, 
+        "featured": false, 
+        "published": true, 
+        "id": "c990bb04f9d04195b0634c1d497bd6c0"
+    }, 
+    "model": "GitPageModel"
+}
