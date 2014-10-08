@@ -1,0 +1,20 @@
+{
+    "fields": {
+        "subtitle": "", 
+        "description": "", 
+        "language": "eng_UK", 
+        "title": "Ebola Frequent Asked Questions", 
+        "primary_category": null, 
+        "created_at": "2014-10-08T14:01:48.247529+00:00", 
+        "featured_in_category": false, 
+        "modified_at": "2014-10-08T14:01:48.247878+00:00", 
+        "linked_pages": [], 
+        "slug": "about", 
+        "content": "This FAQ responds to the most frequently asked questions, as received on Zambia U-Report.", 
+        "source": null, 
+        "featured": false, 
+        "published": true, 
+        "id": "8ea77780bc8b41729b4f08578fd4d14f"
+    }, 
+    "model": "GitPageModel"
+}
