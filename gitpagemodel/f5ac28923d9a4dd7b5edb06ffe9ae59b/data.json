@@ -1,0 +1,20 @@
+{
+    "fields": {
+        "subtitle": "", 
+        "description": "test wrap", 
+        "language": "eng_UK", 
+        "title": "this is a bad example of a really long title that will cause the text to wrap badly", 
+        "primary_category": "47b1706eb65c4f16bad59fb6fde0b01c", 
+        "created_at": "2014-10-08T13:15:03.774322+00:00", 
+        "featured_in_category": true, 
+        "modified_at": "2014-10-08T13:15:03.774552+00:00", 
+        "linked_pages": [], 
+        "slug": "bad-example-really-long-title-will-cause-text-wrap-badly", 
+        "content": "**Text Wrapping it** ", 
+        "source": null, 
+        "featured": true, 
+        "published": true, 
+        "id": "f5ac28923d9a4dd7b5edb06ffe9ae59b"
+    }, 
+    "model": "GitPageModel"
+}
