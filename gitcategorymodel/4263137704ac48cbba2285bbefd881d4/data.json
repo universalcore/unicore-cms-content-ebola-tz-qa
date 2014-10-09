@@ -2,8 +2,8 @@
     "fields": {
         "subtitle": "", 
         "language": "eng_UK", 
-        "title": "test article", 
-        "slug": "test-article", 
+        "title": "About Facts for Life", 
+        "slug": "about-facts-for-life", 
         "source": null, 
         "position": 0, 
         "featured_in_navbar": true, 
