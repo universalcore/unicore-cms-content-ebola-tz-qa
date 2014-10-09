@@ -1,0 +1,12 @@
+{
+    "fields": {
+        "subtitle": "", 
+        "language": "eng_UK", 
+        "title": "7. What is the treatment for Ebola?", 
+        "slug": "7-what-treatment-Ebola", 
+        "source": null, 
+        "featured_in_navbar": false, 
+        "id": "f1fa0aa72b1e4716ad207701d8c3e863"
+    }, 
+    "model": "GitCategoryModel"
+}
