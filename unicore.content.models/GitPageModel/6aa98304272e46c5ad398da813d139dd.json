@@ -1,0 +1,26 @@
+{
+  "subtitle": "", 
+  "description": "a. Signs and symptoms of Ebola", 
+  "language": "eng_UK", 
+  "title": "a. Signs and symptoms of Ebola", 
+  "primary_category": "7e73d66997874f40b0a5bb15fcd9f281", 
+  "created_at": "2014-09-02T15:41:53+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2014-09-15T12:36:05.657753+00:00", 
+  "_version": {
+    "package_version": "0.2.6", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Dec 22 2013, 09:30:03) \n[GCC 4.2.1 Compatible Apple LLVM 5.0 (clang-500.2.79)]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": "6aa98304272e46c5ad398da813d139dd", 
+  "content": "Sudden onset of fever, intense weakness, muscle pain, headache and sore throat\nare typical signs and symptoms. This is followed by vomiting, diarrhoea, rash,\nimpaired kidney and liver function, and in some cases, both internal and\nexternal bleeding.\n\n_Ebola virus disease infections can only be confirmed through laboratory\ntesting._\n\n\n\n", 
+  "source": null, 
+  "featured": false, 
+  "published": true, 
+  "position": null, 
+  "slug": "a-signs-and-symptoms-of-ebola", 
+  "uuid": "6aa98304272e46c5ad398da813d139dd"
+}
