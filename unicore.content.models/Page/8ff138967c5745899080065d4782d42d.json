@@ -6,12 +6,12 @@
   "primary_category": "97fdf200553b49199c652a5604a84e04", 
   "created_at": "2014-09-12T14:10:54+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-09-15T12:21:43.746892+00:00", 
+  "modified_at": "2014-11-10T22:14:11.211890+00:00", 
   "_version": {
     "package_version": "0.2.6", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Dec 22 2013, 09:30:03) \n[GCC 4.2.1 Compatible Apple LLVM 5.0 (clang-500.2.79)]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Dec 22 2013, 09:30:03) \n[GCC 4.2.1 Compatible Apple LLVM 5.0 (clang-500.2.79)]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -20,7 +20,7 @@
   "source": null, 
   "featured": false, 
   "published": true, 
-  "position": null, 
+  "position": 2, 
   "slug": "a-how-do-people-become-infected", 
   "uuid": "8ff138967c5745899080065d4782d42d"
 }
