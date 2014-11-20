@@ -6,12 +6,12 @@
   "primary_category": "0f689142e71540e5a6382ba835b06c37", 
   "created_at": "2014-09-12T18:14:44+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-11-20T08:09:08.912192+00:00", 
+  "modified_at": "2014-11-20T08:10:58.603813+00:00", 
   "_version": {
     "package_version": "0.2.6", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Dec 22 2013, 09:30:03) \n[GCC 4.2.1 Compatible Apple LLVM 5.0 (clang-500.2.79)]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Dec 22 2013, 09:30:03) \n[GCC 4.2.1 Compatible Apple LLVM 5.0 (clang-500.2.79)]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
