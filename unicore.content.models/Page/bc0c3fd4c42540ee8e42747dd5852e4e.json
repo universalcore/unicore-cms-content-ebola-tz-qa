@@ -1,0 +1,28 @@
+{
+  "subtitle": "", 
+  "description": "What about rumours that some foods can prevent or treat the infection?", 
+  "language": "eng_GB", 
+  "title": "What about rumours that some foods can prevent or treat the infection?", 
+  "primary_category": "0f689142e71540e5a6382ba835b06c37", 
+  "created_at": "2014-09-12T18:14:44+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2014-11-20T08:10:58.603813+00:00", 
+  "_version": {
+    "package_version": "0.2.6", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Dec 22 2013, 09:30:03) \n[GCC 4.2.1 Compatible Apple LLVM 5.0 (clang-500.2.79)]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": "bc0c3fd4c42540ee8e42747dd5852e4e", 
+  "content": "There is no known cure for Ebola. You are advised to seek credible health\nadvice about Ebola virus disease from the health center near you or the\nministry of Health on a number given below. While there is no specific drug\nagainst Ebola, the best treatment is intensive supportive treatment provided\nin the clinics by health workers using strict infection control procedures.\n\n", 
+  "source": null, 
+  "featured": false, 
+  "image": null, 
+  "published": true, 
+  "position": 6, 
+  "image_host": "http://qa.thumbor.unicore.io", 
+  "slug": "what-about-rumours-that-some-foods-can-prevent-or-treat-the-infection", 
+  "uuid": "bc0c3fd4c42540ee8e42747dd5852e4e"
+}
