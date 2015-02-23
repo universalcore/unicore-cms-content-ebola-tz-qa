@@ -7,13 +7,13 @@
   "_version": {
     "package_version": "0.2.6", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Dec 22 2013, 09:30:03) \n[GCC 4.2.1 Compatible Apple LLVM 5.0 (clang-500.2.79)]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "slug": "9-can-it-be-prevented", 
   "source": null, 
-  "position": 8, 
+  "position": 9, 
   "image_host": "http://qa.thumbor.unicore.io", 
   "featured_in_navbar": false, 
   "id": "089799b3757a4d4d87295795ba3f7a8b"
