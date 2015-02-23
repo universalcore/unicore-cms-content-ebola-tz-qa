@@ -7,13 +7,13 @@
   "_version": {
     "package_version": "0.2.6", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Dec 22 2013, 09:30:03) \n[GCC 4.2.1 Compatible Apple LLVM 5.0 (clang-500.2.79)]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "slug": "2-how-do-people-become-infected-virus", 
   "source": null, 
-  "position": 1, 
+  "position": 2, 
   "image_host": "http://qa.thumbor.unicore.io", 
   "featured_in_navbar": false, 
   "id": "97fdf200553b49199c652a5604a84e04"
