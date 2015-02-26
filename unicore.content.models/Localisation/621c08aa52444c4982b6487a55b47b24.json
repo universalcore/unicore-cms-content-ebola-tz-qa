@@ -1,13 +1,17 @@
 {
+  "uuid": "621c08aa52444c4982b6487a55b47b24", 
+  "logo_image_host": "http://qa.thumbor.unicore.io", 
   "locale": "ara_SA", 
   "image": null, 
-  "image_host": "http://qa.thumbor.unicore.io", 
+  "logo_text": "tackle ebola ", 
+  "logo_image": "348d5f6552524ad3b3ea8ecf15a56a28", 
   "_version": {
     "package_version": "0.3.3", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "uuid": "621c08aa52444c4982b6487a55b47b24"
+  "logo_description": "", 
+  "image_host": "http://qa.thumbor.unicore.io"
 }
